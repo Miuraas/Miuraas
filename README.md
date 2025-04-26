@@ -1,5 +1,5 @@
 ## Olá Me chamo Theo mas pode me chamar de Miura👋
-<h2 align="left">Atualmente tenho 18 anos,nasci em Maringá,estou cursando ADS na UNICESUMAR</h2>
+<h2 align="left">Atualmente tenho 18 anos,nasci em Maringá e estou cursando ADS na UNICESUMAR</h2>
 
 <h3 align="left">♣️ Trabalhando e estudando<br>♠️ Aprendendo Python, java e php<br>♥️ Hobbys: Jogar vídeogames, leitura e fazer projetos<br>♦️ Sonho profissional: Trabalhar para o exterior</h3>
 

@@ -1,12 +1,11 @@
 ## Olá Me chamo Theo mas pode me chamar de Miura👋
-<h2 align="left">Atualmente tenho 18 anos e nasci em Maringá
+<h2 align="left">Nasci em Maringá
 
-<h3 align="left">♣️ Trabalhando e estudando<br>♠️ Aprendendo Python, java e php<br>♥️ Hobbys: Jogar vídeogames, leitura e fazer projetos<br>♦️ Sonho profissional: Trabalhar para o exterior</h3>
+<h3 align="left">♣️ Trabalhando e estudando<br>♠️ Aprendendo Python<br>♥️ Hobbys: Jogar vídeogames, leitura e fazer projetos<br>♦️ Sonho profissional: Trabalhar para o exterior</h3>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miuraas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miuraas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 </div>
 
 ###
